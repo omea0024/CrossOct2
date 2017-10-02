@@ -1,0 +1,29 @@
+
+       body {
+           color: rgb(255,120,10);
+        }
+    
+header {
+    height: 50vh; 
+    background-image: url("1.jpeg");
+    background-repeat: repeat;
+        
+}
+        h1 {color: purple; 
+        }
+    
+        h2 {
+            color: firebrick; 
+        }
+       
+        p2 {
+            color: green;
+        }
+        
+        li {
+           color: #FFF;
+        }
+       
+        footer {
+            color: rgba(0,125,255,2);
+        }
